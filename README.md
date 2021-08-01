@@ -5,5 +5,5 @@
 - ⌨️ I co-manage [CLI for Microsoft 365](https://pnp.github.io/cli-microsoft365/) which is a cross-platform CLI to help manage Microsoft 365 tenants and SharePoint Framework projects
 - ✍️ I share things on my [blog](https://garrytrinder.github.io)
 - 🎙 I talk about Microsoft 365 and the Modern Workplace on the [GreyHatBeard](https://www.greyhatbeard.com) podcast 🦡🎩🧔🏻
-- 💬 Ask me about Azure and Microsoft 365 development
+- 💬 Ask me about Microsoft 365 development
 - 📫 You can reach me on [twitter](https://twitter.com/garrytrinder) or [LinkedIn](https://www.linkedin.com/in/gtrinder)
