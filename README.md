@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 💼 I work at [CPS](https://www.cps.co.uk) where we help organisations implement and extend Microsoft 365 to meet their business needs
+- 💼 I work at [Microsoft](https://www.microsoft.com) in the Modern Work domain for Microsoft Consulting Services where we help organisations implement and extend Microsoft 365 to meet their business needs
 - 💻 I'm part of [Microsoft 365 Patterns and Practices](https://pnp.github.io) (PnP) team where we help developers extend Microsoft 365 following best practices
 - ⌨️ I co-manage [CLI for Microsoft 365](https://pnp.github.io/cli-microsoft365/) which is a cross-platform CLI to help manage Microsoft 365 tenants and SharePoint Framework projects
 - ✍️ I share things on my [blog](https://garrytrinder.github.io)
